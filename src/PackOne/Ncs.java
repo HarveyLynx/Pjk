@@ -7,6 +7,7 @@ System.out.println("HL");
             if(i%2==0){
                 System.out.println("i = " + i);
             }
+            System.out.print("asd");
 
         }
     }
